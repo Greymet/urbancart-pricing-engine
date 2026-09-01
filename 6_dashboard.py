@@ -217,7 +217,7 @@ with tab2:
         
         # Display markers as text
         st.markdown(f"""
-        <div style='background-color:#F8FAFC; padding:10px; border-radius:5px; border-left: 4px solid #3B82F6;'>
+        <div style='background-color:#F8FAFC; color:#0F172A; padding:10px; border-radius:5px; border-left: 4px solid #3B82F6;'>
             <strong>📌 Key Price Points for {sim_sku}:</strong><br>
             • Historical Average: ₹{avg_hist_price:,.2f}<br>
             • Competitor Average: ₹{comp_price:,.2f}<br>
